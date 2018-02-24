@@ -15,6 +15,7 @@ You can use this plugin working with [GoSublime](https://github.com/DisposaBoy/G
 > We use `godef` to find definition first, if it fails, try `guru` again.
 
 ## Installation
+[中文详细安装文档](http://blog.csdn.net/a_ran/article/details/79356088)
 
 The plugin assumes `godef/guru` is present at `$GOPATH/bin/`. You need install them first:
 
